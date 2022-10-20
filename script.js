@@ -29,6 +29,7 @@ function getResult() {
     "поцілував у шию",
     "поставив засос",
     "відсосав у",
+    "вкусив за ніс",
   ];
 
   //   const randomProger = Math.floor(Math.random() * progers.length);
